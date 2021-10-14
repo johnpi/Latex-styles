@@ -23,7 +23,7 @@ USAGE:
 ```
 3. Cite using \cite{}
 
-To change the bibliography listing from [1], [2], ... to 1., 2., ... add this to the preample 
+To change the bibliography listing from [1], [2], ... to 1., 2., ... add this to the preamble 
 ```
 \makeatletter % changes the catcode of @ to 11
 \renewcommand\@biblabel[1]{#1.}
