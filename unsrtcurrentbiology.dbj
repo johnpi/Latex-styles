@@ -34,7 +34,7 @@ End of customized bst file
 %>>INTERNAL LANGUAGE SUPPORT (if no external language file)
 %<<STYLE OF CITATIONS:
     %: (def) Numerical as in standard LaTeX
-% ay,%: Author-year with some non-standard interface
+ ay,%: Author-year with some non-standard interface
 % alph,%: Alpha style, Jon90 or JWB90 for single or multiple authors
 % alph,alf-1,%: Alpha style, Jon90 even for multiple authors
 % alph,alf-f,%: Alpha style, Jones90 (full name of first author)
@@ -667,5 +667,5 @@ End of customized bst file
 %>>COMPATIBILITY WITH PLAIN TEX:
 ,{%
   }}
-\generate{\file{unsrtcurbio2.bst}{\MBopts}}
+\generate{\file{unsrtcurrentbiology.bst}{\MBopts}}
 \endbatchfile
